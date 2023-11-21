@@ -1,0 +1,4 @@
+Toyota | Tacoma | 19.0 MPG
+Chevy | Silverado | 25.0 MPG
+Dodge | Ram | 27.5 MPG
+Honda | CRV | 32.0 MPG
